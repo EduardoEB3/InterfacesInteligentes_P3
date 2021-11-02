@@ -22,6 +22,6 @@ El directorio está organizado de la siguiente manera:
           ├── ObjetoA.cs
           ├── ObjetoB.cs
           
-**Realizado por:** *Eduardo Expósito Barrera*
+**Realizado por:** *Eduardo Expósito Barrera y Carlos García Lezcano*
 
-**Correo institucional:** alu0101230382@ull.edu.es
+**Correos institucionales:** alu0101230382@ull.edu.es, alu0101208268@ull.edu.es
